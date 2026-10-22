@@ -8,7 +8,7 @@ Commercial chat UIs hide critical metrics (latency, exact token usage, pricing t
 
 ## Architecture
 
-```text
+text
 Prompt Input -> Parallel API Calls -> Metrics Collection -> CSV/Markdown Report
      |              |                    |                      |
 User-defined    GPT/Claude/Gemini    Latency, Cost, Tokens    Structured output
