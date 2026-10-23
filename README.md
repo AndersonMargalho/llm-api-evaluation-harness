@@ -1,5 +1,7 @@
 # LLM API Evaluation Harness
 
+[![Python application](https://github.com/AndersonMargalho/llm-api-evaluation-harness/actions/workflows/python-app.yml/badge.svg)](https://github.com/AndersonMargalho/llm-api-evaluation-harness/actions/workflows/python-app.yml)
+
 Lightweight CLI tool to benchmark multiple LLM providers (OpenAI, Anthropic, Google) via direct API calls. Compares response quality, latency, and cost per token for identical prompts.
 
 ## Why This Exists
